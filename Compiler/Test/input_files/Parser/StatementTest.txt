@@ -1,0 +1,46 @@
+void func(void){
+
+	--ID stmt
+	id1 := 5;
+	id2[6] := 3;
+	
+	--If stmt
+	if(true)
+		;
+	else
+		;
+	if(false)
+		;
+	
+	--loop stmt	
+	loop
+		;
+	end;
+	
+	--exit stmt
+	exit;
+	
+	--continue stmt
+	continue;
+	
+	--return stmt
+	return 6;
+	return;
+	
+	--null stmt
+	;
+	
+	--branch stmt
+	branch(6)
+		case 1: ;
+		default: ;
+	end;
+	
+	--compound stmt
+	{
+	int id3;
+	bool id4[6];
+	
+	;
+	}
+}

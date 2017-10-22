@@ -1,0 +1,23 @@
+0|||start 0,-,-
+1|||rval -,-,(0,0)
+2|||call @16,-,-
+3|||hlt -,-,-
+4|||fun readint,0,-
+5|||rdi -,-,(1,2)
+6|||retv 0,(1,2),-
+7|||fun writeint,0,-
+8|||wri (1,-1),-,-
+9|||ret 1,-,-
+10|||fun readbool,0,-
+11|||rdb -,-,(1,2)
+12|||retv 0,(1,2),-
+13|||fun writebool,0,-
+14|||wrb (1,-1),-,-
+15|||ret 1,-,-
+16|||fun main,1,-
+17|||asg 7,-,(1,2)
+18|||retv 0,0,-
+
+
+
+Errors: No errors encountered.
