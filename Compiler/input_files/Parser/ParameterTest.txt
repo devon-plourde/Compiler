@@ -1,3 +1,0 @@
-void func1(int id1, bool b1, int id2[], bool b2[]){;}
-void func1(ref int id1, ref bool b1){;}
-void func2(void){;}
