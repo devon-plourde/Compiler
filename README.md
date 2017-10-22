@@ -1,7 +1,7 @@
 # Compiler
 
 This program can compile code written in a language called "C*16" which is defined specifically 
-for a univerity course. Some sample inputs have been included with the project (input_files).
+for a univerity course I took. Some sample inputs have been included with the project (input_files).
 
  Usage:
 java [main class] [options] [input file(s)]
