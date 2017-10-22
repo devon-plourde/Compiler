@@ -1,6 +1,9 @@
 # Compiler
 
-Usage:
+This program can compile code written in a language called "C*16"* which is defined specifically 
+for a univerity course. Some sample inputs have been included with the project.
+
+ Usage:
 java [main class] [options] [input file(s)]
 
 Option Listing:     
@@ -12,6 +15,5 @@ Option Listing:
 -c | -compile  -- Process all phases and compile (default behavior)     
 -q | -quiet    -- Only display error messages (default behavior)     
 -v | -verbose  -- Display all trace messages     
--test   --Run all scanner tests and print to STDOUT     
 -e | -err      -- Error file (See -o | -out for details)     
 -o | -out      -- Output file →  takes the next argument as the destination output file for     the compilation of the input file.
