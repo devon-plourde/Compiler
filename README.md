@@ -1,6 +1,6 @@
 # Compiler
 
-This program can compile code written in a language called "C*16" which is defined specifically 
+This program can compile code written in a language called "C*16" which is defined 
 for a univerity course I took. A sample input is included with the project (input.txt).
 
  Usage:
